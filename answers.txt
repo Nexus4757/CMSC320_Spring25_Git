@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: Because Git is a great and efficient way to store and share our code. It makes collaborating or exchanging code/data easier, faster and hassle-free which we need in this course
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: I believe that data science is useful in every field but if I had to pick one I think the healthcare industry has huge potential where data science can be applied. I believe this because they can use data science to analyze historical health records to find patterns/early symptoms for serious diseases that people can be prone to which helps in prevention rather than cure.
